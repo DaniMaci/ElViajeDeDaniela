@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ZapatillaQR_OK" size="1.000000 0.577778" />
+    <ImageTarget name="PantalonQR_OK" size="1.000000 1.486708" />
+    <ImageTarget name="GuanteQR_OK" size="1.000000 1.459521" />
+    <ImageTarget name="GorroQR_OK" size="1.000000 1.027352" />
+    <ImageTarget name="CazadoraQR_OK" size="1.000000 1.094953" />
+    <ImageTarget name="CamisetaQR_OK" size="1.000000 0.912908" />
+    <ImageTarget name="CalcetinesQR_OK" size="1.000000 1.220199" />
+    <ImageTarget name="BufandaQR_OK" size="1.000000 0.871875" />
+    <ImageTarget name="JerseyQR_OK" size="1.000000 0.872038" />
+    <ImageTarget name="gorro" size="1.000000 1.027352" />
+    <ImageTarget name="bufanda" size="1.000000 0.871875" />
+    <ImageTarget name="jersey" size="1.000000 0.872038" />
+    <ImageTarget name="pantalon" size="6.000000 4.700000" />
+    <ImageTarget name="guante" size="6.000000 8.757127" />
+    <ImageTarget name="cazadora" size="6.000000 6.569718" />
+    <ImageTarget name="Zapatillas" size="6.000000 3.466667" />
+    <ImageTarget name="camiseta" size="6.000000 5.477449" />
+    <ImageTarget name="nino" size="6.000000 7.957447" />
+    <ImageTarget name="00_Pantalones_QR" size="1.000000 1.793333" />
+    <ImageTarget name="00_CalcetinesQR" size="1.000000 1.220199" />
+  </Tracking>
+</QCARConfig>
