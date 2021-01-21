@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01_Portada.unity
+    guid: ca2f3075d4a404372bd4c14e5efa3c28
+  - enabled: 1
+    path: Assets/Scenes/02_Menu.unity
+    guid: cd57c1e298b9a4c12b6c80134acadeaf
+  - enabled: 1
+    path: Assets/Scenes/Juego1/03_Juego_Ropa_Niveles.unity
+    guid: 3484f16a792294f84aef113b369278b0
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-1.unity
+    guid: e31bb40091a944236b48c84467281b8c
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-1.1.unity
+    guid: 20647dc6695b347ce9f41d87154eddd8
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-2.unity
+    guid: 487f9ef8c4d6f41c6a0188b3e599fa6c
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-2.1.unity
+    guid: c4c7b7dffbb2c4447b6f4235d1254ee2
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-3.unity
+    guid: ccd9e71f37a8d4d5aa3f916985f36664
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-3.1.unity
+    guid: 5c8fa96beaa2f49ad9c4dc2c43c2ac1e
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-4.unity
+    guid: aa4b116c89a324e3bbf8191bcd1ef921
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-4.1.unity
+    guid: 705bcbcbb3a88481ba370f302dd42999
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel1/03_Juego_Ropa_Nivel1-5.unity
+    guid: 97195bb317daf4f45919d54e8f9b1952
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-1.unity
+    guid: 54f79a2b09f0a44bda83e0698992835d
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-1.1.unity
+    guid: ff7c6100c74ad43089e18a90c6225b1d
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-2.unity
+    guid: 92bb8bf76c80144c69c5deff00f28e9c
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-2.1.unity
+    guid: d332ff88c76974e59b24eac9a34deb02
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-3.unity
+    guid: d147deca71dcc44238b0a5153fa11e71
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-3.1.unity
+    guid: e968f2e795a2247249f222bddbc6165f
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-4.unity
+    guid: b9aa83851ad2942d8ba68f2747c369f6
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-4.1.unity
+    guid: 33886bd6ab909483f91e7657bd551ac5
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-5.unity
+    guid: c0c612c2371ca45dc9a71a942f5edb69
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-5.1.unity
+    guid: 7a2564de2fd6340628c020cb0646e70e
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-6.unity
+    guid: 92b29877cffd64a5a8f169622cec4fca
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel2/04_Ropa_Nivel2-6.1.unity
+    guid: 80ef4750bf9014c99865ca326cfd9864
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-0.unity
+    guid: 966ebcc3a320a4f95a7f08f92863080e
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-0_1.unity
+    guid: 469419c0dbffc4ee492649c783452ced
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-1.unity
+    guid: 80c1d91516fe64d1aa60809e4823d012
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-1_1.unity
+    guid: d38609a1d428c440d85066fbdcad9aae
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-2.unity
+    guid: d62227ed5a94d43cb8cc59311210647b
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-2_1.unity
+    guid: 742701eb34c9a402aa956652d755a2e3
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-3.unity
+    guid: 22464d8fc17b04ef0b8442810df14ef7
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-3_1.unity
+    guid: ad655546de90f452fa97486cb45e25ec
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-4.unity
+    guid: 9ef3e529c0bb44048b0ce6694cae19e9
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-4_1.unity
+    guid: 077eb849eb22a4ce9a7a91bf66a8ae30
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-5.unity
+    guid: 72983d4110c2145c586fc3ea64311260
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-5_1.unity
+    guid: bfe5f77ca08db46f587dedd2d420c7c7
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-6.unity
+    guid: 5fdf9bc43be0a42ec96a3d574826a620
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-6_1.unity
+    guid: 4d3dab632c2144ceb9972866fdcff64d
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-7.unity
+    guid: 02ee1a3d920f040779dda803d2150493
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-7_1.unity
+    guid: c7081117d0a424929bc9f01cce7cc74d
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-8.unity
+    guid: e62b1513bed0d41eeab10d04eb08e043
+  - enabled: 1
+    path: Assets/Scenes/Juego1/Juego_Ropa_Nivel3/JR_Nivel3-8_1.unity
+    guid: 68d14a27fdba74aec8a8930bb4788a47
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Juego_Tren_Niveles.unity
+    guid: 421504d1dbae546cf99b22bd02e9949e
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel1/nivel1.unity
+    guid: 5d2844637046b497d8c4e68476c13e30
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel1/nivel1ayuda.unity
+    guid: 2cf250469fa4d4aedba63c7a80713fff
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel1/nivel1solucion.unity
+    guid: 39f914cf689144a4c8f7239c74ac0e38
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel2/nivel2.unity
+    guid: 7349bddb71255471cb7d3cae77fa6d1b
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel2/nivel2ayuda.unity
+    guid: efee1a4ec9bbc4d67bb96d28492e5ccb
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel2/nivel2solucion.unity
+    guid: d9b0b1dd01648469f98fba83f3b36618
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel3/nivel3.unity
+    guid: 5c5c812df5a1f444c8230da950335305
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel3/nivel3ayuda.unity
+    guid: 8a83c480ab3d64c34be68ded867fa5aa
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel3/nivel3solucion.unity
+    guid: dbba9ed9a94c34605b403bd62215377f
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel4/nivel4.unity
+    guid: da71c3f3708fe46f5bae9439493c02fa
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel4/nivel4ayuda.unity
+    guid: add54f5ea2d9c4714a2476dc2c57e65f
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel4/nivel4solucion.unity
+    guid: d753688faa3f344ce9524fcc7e9a9675
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel5/nivel5.unity
+    guid: dc4a02c73793944b2b7e78e838c15166
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel5/nivel5ayuda.unity
+    guid: 41bd38406724e42f296055df4f25f015
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel5/nivel5solucion.unity
+    guid: d8a8dafd50f0b4553a2f6bed4dfb02d6
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel6/nivel6.unity
+    guid: de646dfbcb7db4eababc53ea1d892726
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel6/nivel6ayuda.unity
+    guid: 73ba79f6cd01644f4bea4a0e2cd186ea
+  - enabled: 1
+    path: Assets/Scenes/Juego2/Nivel6/nivel6solucion.unity
+    guid: 6efca5c5a9eb447b184a188667067554
+  - enabled: 1
+    path: Assets/Scenes/Juego1/03_FINAL_ROPA.unity
+    guid: 0fb172b38bf094ac6afc4a07ccf9e16d
+  - enabled: 1
+    path: Assets/Scenes/Juego2/FINAL_TREN.unity
+    guid: a60631ad76bf04a0e9b2857de58c6b41
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
